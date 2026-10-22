@@ -1,0 +1,21 @@
+title: "Alok Singh – App Dev Notes"
+author: Alok Singh
+description: >-
+  Practical, code-first notes on iOS and Android app development: Swift, SwiftUI,
+  SpriteKit, AVFoundation, notifications, offline-first architecture and shipping
+  apps to the stores.
+url: "https://aryansbtloe.github.io"
+baseurl: "/dev-notes"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+permalink: /:year/:month/:day/:title/
+minima:
+  social_links:
+    - title: Portfolio
+      icon: rss
+      url: "https://bestlatestapps.com/alok/"
+header_pages:
+  - about.md
