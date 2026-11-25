@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Create and Check an SPF Record for Your Domain"
-date: 2026-11-25 14:50:00 +0530
+date: 2026-11-25 10:00:00 +0530
 author: Alok Singh
 description: "Build an SPF TXT record for Google Workspace, Microsoft 365 and other senders, check the record a domain publishes today, and stay under the 10-lookup limit."
 canonical_url: "https://bestlatestapps.com/blog/how-to-create-and-check-an-spf-record-for-your-domain/"

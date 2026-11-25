@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Free Graphing Calculator in Your Browser: Plot Functions, Roots and Intersections"
-date: 2026-11-25 14:50:00 +0530
+date: 2026-11-25 10:00:00 +0530
 author: Alok Singh
 description: "Plot one or more functions of x in your browser, zoom and pan with touch or mouse, and read the roots and intersection points inside the visible window."
 canonical_url: "https://bestlatestapps.com/blog/a-free-graphing-calculator-in-your-browser-plot-functions-roots/"

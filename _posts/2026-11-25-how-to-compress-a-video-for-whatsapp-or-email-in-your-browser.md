@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Compress a Video for WhatsApp or Email, in Your Browser"
-date: 2026-11-25 14:50:00 +0530
+date: 2026-11-25 10:00:00 +0530
 author: Alok Singh
 description: "Shrink a video to fit WhatsApp's 16 MB or a 25 MB email limit in your browser, how target sizes work, and how to keep the result from looking blocky."
 canonical_url: "https://bestlatestapps.com/blog/how-to-compress-a-video-for-whatsapp-or-email-in-your-browser/"
