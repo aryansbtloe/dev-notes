@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Build a Clean, ATS-Friendly Resume in Your Browser"
-date: 2026-11-28 14:30:00 +0530
+date: 2026-11-28 10:00:00 +0530
 author: Alok Singh
 description: "Build a clean resume in your browser with four templates, A4 or US Letter, reorderable sections and a text-based PDF that applicant tracking systems can read."
 canonical_url: "https://bestlatestapps.com/blog/how-to-build-a-clean-ats-friendly-resume-in-your-browser/"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Write JSON-LD Schema Markup for FAQs, Articles and Breadcrumbs"
-date: 2026-11-28 14:30:00 +0530
+date: 2026-11-28 10:00:00 +0530
 author: Alok Singh
 description: "Generate JSON-LD structured data for FAQ, article and breadcrumb markup, where to put it, and what to check so search engines actually use it."
 canonical_url: "https://bestlatestapps.com/blog/how-to-write-json-ld-schema-markup-for-faqs-articles/"

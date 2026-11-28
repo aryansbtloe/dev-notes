@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Interactive Periodic Table With Element Data Cited to PubChem"
-date: 2026-11-28 14:30:00 +0530
+date: 2026-11-28 10:00:00 +0530
 author: Alok Singh
 description: "An interactive periodic table with all 118 elements, searchable by name, symbol or number, with properties sourced from the PubChem periodic table at the US National Library of Medicine."
 canonical_url: "https://bestlatestapps.com/blog/an-interactive-periodic-table-with-element-data-cited-to-pubchem/"
